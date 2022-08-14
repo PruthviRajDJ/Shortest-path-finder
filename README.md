@@ -1,3 +1,3 @@
 # SHORTEST-PATH-FINDER
-Finds shortest path between 2 points in the grid.
-used djikstra algorithm to get the path.
+Shows the shortest path between two points inside a grid, works with the help Dijkstra's algorithm.
+Finds the shortest path even if there are obstacles or walls between the grid points by avoiding them.
